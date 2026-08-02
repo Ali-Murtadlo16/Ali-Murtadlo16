@@ -1,0 +1,25 @@
+name: Ahmad Ali Murtadlo Asadillah
+username: Alimurtadlo16
+location: Ponorogo, East Java, Indonesia
+major: Informatics Engineering
+
+current_focus:
+  role: Laboratory & Practicum Assistant at UNIDA Gontor
+  details: Guiding junior students in Java OOP, Data Structures, and Databases
+
+biography:
+  ai_assisted_engineering: Certified in Generative AI & Prompt Engineering (Codepolitan x Google.org) to build highly productive engineering workflows.
+  security_aware: Trained in Industrial Cybersecurity frameworks (ID-Networkers) to enforce secure coding principles from the ground up.
+  global_capability: Upper-intermediate Arabic proficiency (TOAFL B2 Certified - Score: 500) from Lisanul Arab, ready for international tech collaborations.
+
+tech_stack:
+  languages: [Python, Java, JavaScript]
+  environment: [Arch Linux, PowerShell, PM2 Process Manager]
+  tools: [Git, VS Code, Zed Editor]
+
+active_projects:
+  - name: OpenClaw Integration
+  - name: Building Automation Agent
+    components:
+      - vibin_01_prayer_WhatsApp_bot.exe (Location-aware Notification Engine)
+      - financial-bot-system.exe (Telegram Financial Tracker)
