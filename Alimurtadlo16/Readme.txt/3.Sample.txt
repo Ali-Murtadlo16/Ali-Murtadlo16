@@ -12,11 +12,11 @@
   </picture>
 </div>
 
-- 🔭 I’m currently studying at **Universitas Darussalam Gontor**  
-- 🌱 I’m passionate about **AI, Web Development, Software Engineering**  
-- 💬 Ask me about **Python, PHP, JavaScript, HTML, CSS, React**  
-- 📫 How to reach me: **umifirlana4@gmail.com**  
-- ⚡ Fun fact: **I think I am funny**  
+- 🔭 I’m currently studying at **Universitas Darussalam Gontor**
+- 🌱 I’m passionate about **AI, Web Development, Software Engineering**
+- 💬 Ask me about **Python, PHP, JavaScript, HTML, CSS, React**
+- 📫 How to reach me: **umifirlana4@gmail.com**
+- ⚡ Fun fact: **I think I am funny**
 
 ---
 
@@ -40,7 +40,7 @@
 
 <p align="left">
   <!-- Tambahkan icon sesuai kebutuhan -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
@@ -70,3 +70,22 @@
     </td>
   </tr>
 </table>
+
+
+<div align="center">
+<h2>🛠️ Tech Stack & Skills</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,typescript,git" alt="Tech Stack" />
+</p>
+
+---
+<div align="center">
+<h2>📊 GitHub Stats & Productivity</h2>
+<p align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ali-Murtadlo16&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ali-Murtadlo16&layout=compact&theme=tokyonight&hide_title=false" alt="Top Languages" height="200" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Murtadlo16&theme=tokyonight" alt="GitHub Streak" />
+</p>
+</div>
