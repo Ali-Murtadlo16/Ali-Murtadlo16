@@ -1,16 +1,12 @@
-<!-- HEADER: Typing SVG (Dipertahankan) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3F51B5&center=true&vCenter=true&width=650&height=60&lines=Hi+There!+%F0%9F%91%8B;I'm+Ahmad+Ali+Murtadlo+Asadillah" alt="Typing SVG" />
 </p>
 
-<!-- NEW: GitHub Trophies - Biar profilmu kelihatan berprestasi -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ali-Murtadlo16&theme=tokyonight&no-bg=true&margin-w=15" alt="github trophies" />
 </p>
-
 ---
 
-<!-- SECTION: Intro & Quotes -->
 <p align="center">
   <i>"Non-stop grind, but the repos don't lie. Pull up and check 'em out!."</i><br>
   <i>"Fueling code with coffee, chasing bugs till late, and mentoring the next generation of engineers at the lab."</i>
@@ -20,8 +16,6 @@
 </p>
 
 ---
-
-<!-- SECTION: About Me (Peningkatan Tata Letak) -->
 <div align="center">
 <h2>⚡ About My Journey</h2>
 </div>
@@ -33,7 +27,6 @@
 
 ---
 
-<!-- SECTION: Tech Stack (Peningkatan Visual - Menggunakan Badge Berwarna) -->
 <div align="center">
 <h2>🛠️ Tech Stack & Skills</h2>
 <p>
@@ -51,15 +44,12 @@
 </div>
 
 ---
-
-<!-- SECTION: Stats & Productivity (Peningkatan Visual - Disusun Horizontal) -->
 <div align="center">
 <h2>📊 GitHub Stats & Productivity</h2>
 <p align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ali-Murtadlo16&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ali-Murtadlo16&layout=compact&theme=tokyonight&hide_title=false" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ali-Murtadlo16&layout=compact&theme=tokyonight&hide_title=false" alt="Top Languages" height="190" />
 </p>
-<!-- NEW: Streak Stats - Buat nunjukkin seberapa rajin kamu ngoding -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Murtadlo16&theme=tokyonight" alt="GitHub Streak" />
 </p>
@@ -67,7 +57,6 @@
 
 ---
 
-<!-- SECTION: Contribution Snake (Dipertahankan) -->
 <div align="center">
 <h2>🐍 My Contribution Snake</h2>
 <picture>
@@ -79,7 +68,6 @@
 
 ---
 
-<!-- SECTION: Connect (Peningkatan Visual - Centered & Spaced) -->
 <div align="center">
 <h2>🌐 Connect with Me</h2>
 <p>
@@ -98,8 +86,6 @@
 </div>
 
 ---
-
-<!-- FOOTER: Retro Typing SVG (Dipertahankan) -->
 <br>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=2000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&height=60&lines=LOADING+PROFILE...;HELLO+EVERYONE!+I'M+A+SOFTWARE+ENGINEER;LET'S+CODE+THE+FUTURE!;JUST+IGNORE+WHO'S+DID'NT+LIKE+U" alt="Typing SVG" />
