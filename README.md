@@ -44,11 +44,11 @@
 <h2>📊 Profile Analytics & Commit Commitments</h2>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ali-Murtadlo16&theme=tokyonight" alt="Profile Details" width="90%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ali-Murtadlo16&theme=tokyonight" alt="Repos Per Language" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ali-Murtadlo16&theme=tokyonight" alt="Repos Per Language" width="30%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ali-Murtadlo16&theme=tokyonight" alt="Most Commit Language" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ali-Murtadlo16&theme=tokyonight" alt="Overall Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ali-Murtadlo16&theme=tokyonight" alt="Most Commit Language" width="30%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ali-Murtadlo16&theme=tokyonight" alt="Overall Stats" width="30%" />
 </p>
 </div>
 ---
