@@ -41,6 +41,18 @@
 
 ---
 <div align="center">
+<h2>📊 Profile Analytics & Commit Commitments</h2>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ali-Murtadlo16&theme=tokyonight" alt="Profile Details" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ali-Murtadlo16&theme=tokyonight" alt="Repos Per Language" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ali-Murtadlo16&theme=tokyonight" alt="Most Commit Language" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ali-Murtadlo16&theme=tokyonight" alt="Overall Stats" width="48%" />
+</p>
+</div>
+---
+<div align="center">
 <h2>📊 GitHub Stats & Productivity</h2>
 <p align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ali-Murtadlo16&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
@@ -51,17 +63,6 @@
 </p>
 </div>
 
-<div align="center">
-<h2>📊 Profile Analytics & Commit Commitments</h2>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ali-Murtadlo16&theme=tokyonight" alt="Profile Details" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ali-Murtadlo16&theme=tokyonight" alt="Repos Per Language" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ali-Murtadlo16&theme=tokyonight" alt="Most Commit Language" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ali-Murtadlo16&theme=tokyonight" alt="Overall Stats" width="48%" />
-</p>
-</div>
 
 ---
 <div align="center">
