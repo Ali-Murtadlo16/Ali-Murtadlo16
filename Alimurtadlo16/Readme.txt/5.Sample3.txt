@@ -3,9 +3,14 @@
 </p>
 
 ---
+<p align="center">
+
+</p>
+---
+---
 
 <p align="center">
-  <i>"Non-stop grind, but the repos don't lie. Pull up and check 'em out!."</i><br>
+  <i>"Non-stop grind, but the repos don't lie. Pull up and check 'em out!."</i>
   <i>"Fueling code with coffee, chasing bugs till late, and mentoring the next generation of engineers at the lab."</i>
 </p>
 
@@ -19,11 +24,14 @@
   ⚡ About My Journey
 </p>
 
-<p align="center">
-  Hey! I'm <b>Ahmad Ali Murtadlo Asadillah</b>, an Informatics Engineering student based in <b>Lamongan, Indonesia</b>. <br>
-  As a <b>Software Engineer & Web Developer</b>, I'm super <b>into</b> building modern web apps and <b>geeking out over</b> scalable software architecture. Just a total <b>dev junkie</b> who loves getting <b>into the weeds</b> with new tech stack! 🚀
-</p>
+```yaml
+name : Ahmad Ali Murtadlo Asadillah
+address : Lamongan, Indonesia
+major : Informatics Engineering
 
+as a Software Engineer and Web Developer
+
+```
 ---
 
 <p align="center">
@@ -45,7 +53,6 @@
 </p>
 
 ---
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ali-Murtadlo16/Ali-Murtadlo16/output/github-contribution-grid-snake-dark.svg">
@@ -74,6 +81,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=2000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&height=60&lines=LOADING+PROFILE...;HELLO+EVERYONE!+I'M+A+SOFTWARE+ENGINEER;LET'S+CODE+THE+FUTURE!;JUST+IGNORE+WHO'S+DID'NT+LIKE+U" alt="Typing SVG" />
-</p>
+<br align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=2000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&height=60&lines=LOADING+PROFILE...;HELLO+EVERYONE!+I'M+A+SOFTWARE+ENGINEER;LET'S+CODE+THE+FUTURE!;JUST+IGNORE+WHO'S+DID'NT+LIKE+U)
+
+</div>
