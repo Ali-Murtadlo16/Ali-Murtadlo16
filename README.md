@@ -46,11 +46,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ali-Murtadlo16&theme=tokyonight" alt="Profile Details" width="90%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ali-Murtadlo16&theme=tokyonight" alt="Repos Per Language" width="25%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ali-Murtadlo16&theme=tokyonight" alt="Most Commit Language" width="25%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ali-Murtadlo16&theme=tokyonight" alt="Overall Stats" width="25%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ali-Murtadlo16&theme=tokyonight" alt="Repos Per Language" width="28%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ali-Murtadlo16&theme=tokyonight" alt="Most Commit Language" width="28%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ali-Murtadlo16&theme=tokyonight" alt="Overall Stats" width="28%" />
 </p>
 </div>
+
 ---
 <div align="center">
 <h2>📊 GitHub Stats & Productivity</h2>
