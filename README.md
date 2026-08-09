@@ -1,11 +1,8 @@
-<!-- HEADER: Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3F51B5&center=true&vCenter=true&width=650&height=60&lines=Hi+There!+%F0%9F%91%8B;I'm+Ahmad+Ali+Murtadlo+Asadillah" alt="Typing SVG" />
 </p>
 
 ---
-
-<!-- SECTION: Intro & Quotes -->
 <p align="center">
   <i>"Non-stop grind, but the repos don't lie. Pull up and check 'em out!."</i><br>
   <i>"Fueling code with coffee, chasing bugs till late, and mentoring the next generation of engineers at the lab."</i>
@@ -15,8 +12,6 @@
 </p>
 
 ---
-
-<!-- SECTION: About Me -->
 <div align="center">
 <h2>⚡ About My Journey</h2>
 </div>
@@ -27,11 +22,10 @@
 </p>
 
 ---
-
-<!-- SECTION: Tech Stack -->
 <div align="center">
 <h2>🛠️ Tech Stack & Skills</h2>
-<p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,typescript,git" alt="Tech Stack" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -46,8 +40,17 @@
 </div>
 
 ---
+<div align="center">
+<h2>📊 GitHub Stats & Productivity</h2>
+<p align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ali-Murtadlo16&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ali-Murtadlo16&layout=compact&theme=tokyonight&hide_title=false" alt="Top Languages" height="200" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Murtadlo16&theme=tokyonight" alt="GitHub Streak" />
+</p>
+</div>
 
-<!-- SECTION: Profile Summary Cards (Pengganti Trophies) -->
 <div align="center">
 <h2>📊 Profile Analytics & Commit Commitments</h2>
 <p align="center">
@@ -61,22 +64,8 @@
 </div>
 
 ---
-
-<!-- 3D Isometric Contribution Graph -->
 <div align="center">
-  <h2>🧱 3D Contribution Graph</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-night-view.svg">
-    <img alt="Ahmad's 3D Contribution Graph" src="./profile-3d-contrib/profile-night-view.svg" width="100%">
-  </picture>
-</div>
-
----
-
-<!-- SECTION: Contribution Snake -->
-<div align="center">
-<h2>🐍 My Contribution Snake</h2>
+<h2>🐍 My Snake</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ali-Murtadlo16/Ali-Murtadlo16/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ali-Murtadlo16/Ali-Murtadlo16/output/github-contribution-grid-snake.svg">
@@ -85,8 +74,6 @@
 </div>
 
 ---
-
-<!-- SECTION: Connect -->
 <div align="center">
 <h2>🌐 Connect with Me</h2>
 <p>
@@ -105,8 +92,6 @@
 </div>
 
 ---
-
-<!-- FOOTER: Retro Typing SVG -->
 <br>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=2000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&height=60&lines=LOADING+PROFILE...;HELLO+EVERYONE!+I'M+A+SOFTWARE+ENGINEER;LET'S+CODE+THE+FUTURE!;JUST+IGNORE+WHO'S+DID'NT+LIKE+U" alt="Typing SVG" />
