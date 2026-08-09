@@ -62,6 +62,18 @@
 
 ---
 
+<!-- 3D Isometric Contribution Graph -->
+<div align="center">
+  <h2>🧱 3D Contribution Graph</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-night-view.svg">
+    <img alt="Ahmad's 3D Contribution Graph" src="./profile-3d-contrib/profile-night-view.svg" width="100%">
+  </picture>
+</div>
+
+---
+
 <!-- SECTION: Contribution Snake -->
 <div align="center">
 <h2>🐍 My Contribution Snake</h2>
