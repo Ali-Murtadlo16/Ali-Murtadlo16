@@ -27,6 +27,8 @@
 
 ---
 
+<div align="center">
+<h2>🛠️ Tech Stack & Skills</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,typescript,git" alt="Tech Stack" />
 </p>
