@@ -47,12 +47,12 @@
 <div align="center">
   <h2>📊 GitHub Stats & Productivity</h2>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Ali-Murtadlo16&theme=tokyonight&column=4&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ali-Murtadlo16&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ali-Murtadlo16&layout=compact&theme=tokyonight&hide_title=false" alt="Top Languages" height="165" />
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ali-Murtadlo16&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ali-Murtadlo16&layout=compact&theme=tokyonight&hide_title=false" alt="Top Languages" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Murtadlo16&theme=tokyonight&hide_border=true" alt="Activity Graph" width="90%" />
 </div>
 
 ---
