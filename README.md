@@ -50,7 +50,7 @@
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ali-Murtadlo16&layout=compact&theme=tokyonight&hide_title=false" alt="Top Languages" height="200" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Murtadlo16&theme=chungqicing" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Murtadlo16&theme=tokyonight" alt="GitHub Streak" />
 </p>
 </div>
 
