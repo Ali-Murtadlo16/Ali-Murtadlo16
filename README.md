@@ -89,5 +89,5 @@
 ---
 <br>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=2000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&height=60&lines=LOADING+PROFILE...;HELLO+EVERYONE!+I'M+A+SOFTWARE+ENGINEER;LET'S+CODE+THE+FUTURE!;JUST+IGNORE+WHO'S+DID'NT+LIKE+U;HAPPY+CODING+DAY" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=6000&pause=4000&color=39FF14&center=true&vCenter=true&width=650&height=60&lines=LOADING+PROFILE...;HELLO+EVERYONE!+I'M+A+SOFTWARE+ENGINEER;LET'S+CODE+THE+FUTURE!;JUST+IGNORE+WHO'S+DID'NT+LIKE+U;HAPPY+CODING+DAY" alt="Typing SVG" />
 </p>
