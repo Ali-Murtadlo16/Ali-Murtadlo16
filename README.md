@@ -84,8 +84,8 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 &nbsp;&nbsp;
-<a href="https://whatsapp.com/" target="_blank">
-  <img src="https://https://web.whatsapp.com/#" alt="whatsapp" />
+<a href="https://web.whatsapp.com/#" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" />
 </a>
 </p>
 </div>
