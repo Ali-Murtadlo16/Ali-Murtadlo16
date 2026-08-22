@@ -61,7 +61,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ali-Murtadlo16/Ali-Murtadlo16/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ali-Murtadlo16/Ali-Murtadlo16/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Streak Snake" src="https://raw.githubusercontent.com/Ali-Murtadlo16/Ali-Murtadlo16/output/github-contribution-grid-snake.svg" width="80%">
+  <img alt="GitHub Streak Snake" src="https://raw.githubusercontent.com/Ali-Murtadlo16/Ali-Murtadlo16/output/github-contribution-grid-snake.svg" width="200%">
 </picture>
 </div>
 
