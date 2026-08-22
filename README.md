@@ -51,20 +51,17 @@
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ali-Murtadlo16&layout=compact&theme=tokyonight&hide_title=false" alt="Top Languages" height="165" />
   </p>
   <p align="center">
-    <img src="https://git-streak-stats.vercel.app/?user=Ali-Murtadlo16&theme=tokyonight" alt="GitHubStreak" />
-  </p>
-  <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Murtadlo16&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" width="95%" />
   </p>
 </div>
 
 ---
 <div align="center">
-<h2>🐍 My Snake</h2>
+<h2>🐍 A Snake</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ali-Murtadlo16/Ali-Murtadlo16/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ali-Murtadlo16/Ali-Murtadlo16/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Streak Snake" src="https://raw.githubusercontent.com/Ali-Murtadlo16/Ali-Murtadlo16/output/github-contribution-grid-snake.svg" width="100%">
+  <img alt="GitHub Streak Snake" src="https://raw.githubusercontent.com/Ali-Murtadlo16/Ali-Murtadlo16/output/github-contribution-grid-snake.svg" width="80%">
 </picture>
 </div>
 
