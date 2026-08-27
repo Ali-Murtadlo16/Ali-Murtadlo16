@@ -51,7 +51,7 @@
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ali-Murtadlo16&layout=compact&theme=tokyonight&hide_title=false" alt="Top Languages" height="165" />
   </p>
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Murtadlo16&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" width="95%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Murtadlo16&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" width="100%" />
   </p>
 </div>
 
